@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: #E0EEEE;
 }
 
 h1 {
@@ -33,16 +33,16 @@ section>h2 {
 }
 
 section.mainecoon>h2 {
-    background-color: #00ffff;
+    background-color: #8FD8D8;
 }
 
 section.tabby>h2 {
-    background-color: #4f7acd;
+    background-color: #38B0DE;
 }
 
 section.persian>h2 {
-    color: #e2e2e2;
-    background-color: #10328a;
+    color: #ffffff;
+    background-color: #00688B;
 }
 
 section>p {
